@@ -1,2 +1,1 @@
-#panelscript
-Panel script test
+***Panel script test***
