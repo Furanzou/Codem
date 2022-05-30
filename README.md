@@ -1,2 +1,2 @@
-# Codem
-CodemTest
+#panelscript
+Panel script test
